@@ -1,3 +1,2 @@
-master:
-  server:
-    port: 8001
+config:
+  info: springcloudconfig from gitHub
